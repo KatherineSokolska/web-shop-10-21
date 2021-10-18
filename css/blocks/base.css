@@ -1,0 +1,33 @@
+/* font-family: 'Noto Sans', sans-serif;
+font-family: 'Playfair Display', serif; */
+
+*,
+*::after,
+*::before {
+    font-family: 'Noto Sans', sans-serif;
+    box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+    object-fit: cover;
+    object-position: center center;
+}
+
+section {
+    margin: 70px 0;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #F72464;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}

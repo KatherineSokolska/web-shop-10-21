@@ -1,0 +1,48 @@
+.button {
+    display: inline-block;
+    background-color: #F72464;
+    border-radius: 4px;
+    padding: 6px 33px 9px;
+    color: #fff;
+}
+
+.button-sn {
+    font-family: 'Playfair Display', serif;
+    padding-bottom: 10px;
+    font-size: 26px;
+    line-height: 35px;
+}
+
+.button:hover {
+    color: #fff;
+    background-color: #bb194a;
+}
+
+.section-button-wrapper {
+    text-align: center;
+}
+
+/* button */
+
+.button-outline {
+    display: inline-block;
+    padding: 9px 40px 11px;
+    background: #fff;
+    border: 1px solid #F72464;
+    border-radius: 4px;
+
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    transition: background-color .2s ease-in, color .2s ease-in;
+}
+
+.button-outline:hover {
+    background: #F72464;
+    color: #fff;
+}
