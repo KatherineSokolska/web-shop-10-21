@@ -4,3 +4,7 @@
 @import url(./blocks/nav.css);
 @import url(./blocks/header.css);
 @import url(./blocks/sections.css);
+@import url(./blocks/info-section.css);
+@import url(./blocks/posts.css);
+@import url(./blocks/subscribe-form.css);
+@import url(./blocks/footer.css);

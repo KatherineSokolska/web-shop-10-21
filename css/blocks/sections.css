@@ -1,29 +1,48 @@
+.section-new {
+    margin: 70px 0 40px;
+}
+
+.section-featured {
+    margin: 60px 0;
+}
+
+.section-blog {
+    margin: 45px 0 0;
+}
+
+.section-subscribe {
+    margin-top: 45px;
+    padding: 30px 0 60px;
+    background-color: rgb(248, 248, 248);
+}
+
 .section-header {
     text-align: center;
     margin-bottom: 40px;
 }
 
 .section-header__title {
+    max-width: 700px;
+    margin: 0 auto;
+
     font-family: Playfair Display;
     font-style: normal;
     font-weight: normal;
     font-size: 42px;
     line-height: 56px;
-    margin: 0;
     margin-bottom: 10px;
 }
 
 .section-header__desc {
+    max-width: 630px;
+    margin: 0 auto;
     font-family: Noto Sans;
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
-    line-height: 19px;
-    text-transform: uppercase;
     color: #999999;
 }
 
-.new-products {
-    padding-top: 60px;
-    padding-bottom: 70px;
+.section-header__desc--uppercase {
+    text-transform: uppercase;
 }

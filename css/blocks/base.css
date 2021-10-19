@@ -9,13 +9,9 @@ font-family: 'Playfair Display', serif; */
 }
 
 img {
-    width: 100%;
+    max-width: 100%;
     object-fit: cover;
     object-position: center center;
-}
-
-section {
-    margin: 70px 0;
 }
 
 a {
@@ -28,6 +24,7 @@ a:hover {
 }
 
 .container {
-    width: 1170px;
+    max-width: 1170px;
+    min-width: 320px;
     margin: 0 auto;
 }
