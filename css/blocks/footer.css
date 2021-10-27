@@ -34,9 +34,10 @@
 .footer__sco-icon {
     max-height: 20px;
     width: auto;
+    fill: #fff;
 }
 
-.footer__sco-icon:hover path{
+.footer__sco-icon:hover{
     fill: #F72464;
 }
 .footer__copy {

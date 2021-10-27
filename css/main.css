@@ -1,5 +1,6 @@
 @import url(./blocks/base.css);
 @import url(./blocks/buttons.css);
+@import url(./blocks/menu-icon.css);
 @import url(./blocks/products.css);
 @import url(./blocks/nav.css);
 @import url(./blocks/header.css);
@@ -8,3 +9,11 @@
 @import url(./blocks/posts.css);
 @import url(./blocks/subscribe-form.css);
 @import url(./blocks/footer.css);
+
+
+/* nav,  */
+header, 
+.section-new, 
+.info-section, .section-featured, .section-blog, .section-subscribe, footer {
+    display: none;
+}
