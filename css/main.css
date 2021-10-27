@@ -10,10 +10,3 @@
 @import url(./blocks/subscribe-form.css);
 @import url(./blocks/footer.css);
 
-
-/* nav,  */
-header, 
-.section-new, 
-.info-section, .section-featured, .section-blog, .section-subscribe, footer {
-    display: none;
-}

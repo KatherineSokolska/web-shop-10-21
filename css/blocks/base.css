@@ -10,6 +10,7 @@ font-family: 'Playfair Display', serif; */
 
 img {
     max-width: 100%;
+    display: block;
     object-fit: cover;
     object-position: center center;
 }

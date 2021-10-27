@@ -1,8 +1,9 @@
 .product-wrapper {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: center;
     row-gap: 40px;
+    column-gap: 30px;
     margin-bottom: 40px;
 }
 
